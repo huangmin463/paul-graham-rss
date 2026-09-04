@@ -1,0 +1,934 @@
+{
+  "items": {
+    "https://paulgraham.com/13sentences.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Startups in 13 Sentences"
+    },
+    "https://paulgraham.com/5founders.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Five Founders"
+    },
+    "https://paulgraham.com/6631327.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "6,631,372"
+    },
+    "https://paulgraham.com/95.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Let the Other 95% of Great Programmers In"
+    },
+    "https://paulgraham.com/ace.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Billionaires Build"
+    },
+    "https://paulgraham.com/addiction.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Acceleration of Addictiveness"
+    },
+    "https://paulgraham.com/airbnb.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Subject: Airbnb"
+    },
+    "https://paulgraham.com/airbnbs.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Airbnbs"
+    },
+    "https://paulgraham.com/alien.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Alien Truth"
+    },
+    "https://paulgraham.com/altair.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Microsoft Is this the Altair Basic of?"
+    },
+    "https://paulgraham.com/ambitious.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Frighteningly Ambitious Startup Ideas"
+    },
+    "https://paulgraham.com/america.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why Startups Condense in America"
+    },
+    "https://paulgraham.com/angelinvesting.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Be an Angel Investor"
+    },
+    "https://paulgraham.com/aord.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Default Alive or Default Dead?"
+    },
+    "https://paulgraham.com/apple.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Apple's Mistake"
+    },
+    "https://paulgraham.com/artistsship.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Other Half of \"Artists Ship\""
+    },
+    "https://paulgraham.com/avg.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Beating the Averages"
+    },
+    "https://paulgraham.com/badeconomy.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why to Start a Startup in a Bad Economy"
+    },
+    "https://paulgraham.com/before.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Before the Startup"
+    },
+    "https://paulgraham.com/best.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Best Essay"
+    },
+    "https://paulgraham.com/better.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Better Bayesian Filtering"
+    },
+    "https://paulgraham.com/bias.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Way to Detect Bias"
+    },
+    "https://paulgraham.com/boss.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "You Weren't Meant to Have a Boss"
+    },
+    "https://paulgraham.com/brandage.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Brand Age"
+    },
+    "https://paulgraham.com/bronze.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why Smart People Have Bad Ideas"
+    },
+    "https://paulgraham.com/bubble.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What the Bubble Got Right"
+    },
+    "https://paulgraham.com/charisma.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "It's Charisma, Stupid"
+    },
+    "https://paulgraham.com/cities.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Cities and Ambition"
+    },
+    "https://paulgraham.com/college.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Undergraduation"
+    },
+    "https://paulgraham.com/colleges.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "News from the Front"
+    },
+    "https://paulgraham.com/conformism.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Four Quadrants of Conformism"
+    },
+    "https://paulgraham.com/control.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Founder Control"
+    },
+    "https://paulgraham.com/convergence.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why TV Lost"
+    },
+    "https://paulgraham.com/convince.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Convince Investors"
+    },
+    "https://paulgraham.com/copy.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Copy What You Like"
+    },
+    "https://paulgraham.com/corpdev.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Don't Talk to Corp Dev"
+    },
+    "https://paulgraham.com/cred.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Coronavirus and Credibility"
+    },
+    "https://paulgraham.com/credentials.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "After Credentials"
+    },
+    "https://paulgraham.com/desres.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Design and Research"
+    },
+    "https://paulgraham.com/determination.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Anatomy of Determination"
+    },
+    "https://paulgraham.com/die.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How Not to Die"
+    },
+    "https://paulgraham.com/diff.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Made Lisp Different"
+    },
+    "https://paulgraham.com/disagree.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Disagree"
+    },
+    "https://paulgraham.com/disc.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Risk of Discovery"
+    },
+    "https://paulgraham.com/discover.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Persuade xor Discover"
+    },
+    "https://paulgraham.com/distraction.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Disconnecting Distraction"
+    },
+    "https://paulgraham.com/divergence.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Could VC be a Casualty of the Recession?"
+    },
+    "https://paulgraham.com/do.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What to Do"
+    },
+    "https://paulgraham.com/donate.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Donate Unrestricted"
+    },
+    "https://paulgraham.com/ds.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Do Things that Don't Scale"
+    },
+    "https://paulgraham.com/early.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Early Work"
+    },
+    "https://paulgraham.com/earn.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Earn a Billion Dollars"
+    },
+    "https://paulgraham.com/earnest.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Earnestness"
+    },
+    "https://paulgraham.com/ecw.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Be an Expert in a Changing World"
+    },
+    "https://paulgraham.com/equity.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Equity Equation"
+    },
+    "https://paulgraham.com/essay.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Age of the Essay"
+    },
+    "https://paulgraham.com/ffb.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Filters that Fight Back"
+    },
+    "https://paulgraham.com/fh.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Haters"
+    },
+    "https://paulgraham.com/field.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Shape of the Essay Field"
+    },
+    "https://paulgraham.com/fix.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Languages Fix"
+    },
+    "https://paulgraham.com/fn.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Fierce Nerds"
+    },
+    "https://paulgraham.com/foundermode.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Founder Mode"
+    },
+    "https://paulgraham.com/founders.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What We Look for in Founders"
+    },
+    "https://paulgraham.com/foundersatwork.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Learning from Founders"
+    },
+    "https://paulgraham.com/foundervisa.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Founder Visa"
+    },
+    "https://paulgraham.com/fp.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Fashionable Problems"
+    },
+    "https://paulgraham.com/fr.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Raise Money"
+    },
+    "https://paulgraham.com/fundraising.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Fundraising Survival Guide"
+    },
+    "https://paulgraham.com/future.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Future of Startup Funding"
+    },
+    "https://paulgraham.com/gap.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Mind the Gap"
+    },
+    "https://paulgraham.com/gba.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Word \"Hacker\""
+    },
+    "https://paulgraham.com/genius.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Bus Ticket Theory of Genius"
+    },
+    "https://paulgraham.com/getideas.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Get New Ideas"
+    },
+    "https://paulgraham.com/gh.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Great Hackers"
+    },
+    "https://paulgraham.com/good.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Be Good"
+    },
+    "https://paulgraham.com/goodart.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How Art Can Be Good"
+    },
+    "https://paulgraham.com/goodtaste.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Is There Such a Thing as Good Taste?"
+    },
+    "https://paulgraham.com/goodwriting.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Good Writing"
+    },
+    "https://paulgraham.com/google.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Start Google"
+    },
+    "https://paulgraham.com/googles.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why There Aren't More Googles"
+    },
+    "https://paulgraham.com/greatwork.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Do Great Work"
+    },
+    "https://paulgraham.com/growth.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Startup = Growth"
+    },
+    "https://paulgraham.com/guidetoinvestors.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Hacker's Guide to Investors"
+    },
+    "https://paulgraham.com/hackernews.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What I've Learned from Hacker News"
+    },
+    "https://paulgraham.com/head.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Holding a Program in One's Head"
+    },
+    "https://paulgraham.com/herd.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Investor Herd Dynamics"
+    },
+    "https://paulgraham.com/heresy.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Heresy"
+    },
+    "https://paulgraham.com/heroes.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Some Heroes"
+    },
+    "https://paulgraham.com/highres.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The High-Res Society"
+    },
+    "https://paulgraham.com/hiresfund.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "High Resolution Fundraising"
+    },
+    "https://paulgraham.com/hiring.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Hiring is Obsolete"
+    },
+    "https://paulgraham.com/hp.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Hackers and Painters"
+    },
+    "https://paulgraham.com/hs.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What You'll Wish You'd Known"
+    },
+    "https://paulgraham.com/hubs.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why Startup Hubs Work"
+    },
+    "https://paulgraham.com/hundred.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Hundred-Year Language"
+    },
+    "https://paulgraham.com/hw.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Hardware Renaissance"
+    },
+    "https://paulgraham.com/hwh.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Work Hard"
+    },
+    "https://paulgraham.com/icad.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Revenge of the Nerds"
+    },
+    "https://paulgraham.com/ideas.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Ideas for Startups"
+    },
+    "https://paulgraham.com/identity.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Keep Your Identity Small"
+    },
+    "https://paulgraham.com/iflisp.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "If Lisp is So Great"
+    },
+    "https://paulgraham.com/ineq.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Economic Inequality"
+    },
+    "https://paulgraham.com/inequality.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Inequality and Risk"
+    },
+    "https://paulgraham.com/investors.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Present to Investors"
+    },
+    "https://paulgraham.com/invtrend.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Startup Investing Trends"
+    },
+    "https://paulgraham.com/island.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Island Test"
+    },
+    "https://paulgraham.com/javacover.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Java's Cover"
+    },
+    "https://paulgraham.com/jessica.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Jessica Livingston"
+    },
+    "https://paulgraham.com/judgement.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Two Kinds of Judgement"
+    },
+    "https://paulgraham.com/kate.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Kate Saw in Silicon Valley"
+    },
+    "https://paulgraham.com/kids.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Having Kids"
+    },
+    "https://paulgraham.com/know.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How You Know"
+    },
+    "https://paulgraham.com/ladder.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "After the Ladder"
+    },
+    "https://paulgraham.com/langdes.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Five Questions about Language Design"
+    },
+    "https://paulgraham.com/laundry.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Version 1.0"
+    },
+    "https://paulgraham.com/lesson.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Lesson to Unlearn"
+    },
+    "https://paulgraham.com/lies.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Lies We Tell Kids"
+    },
+    "https://paulgraham.com/love.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Do What You Love"
+    },
+    "https://paulgraham.com/lwba.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Lisp for Web-Based Applications"
+    },
+    "https://paulgraham.com/mac.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Return of the Mac"
+    },
+    "https://paulgraham.com/makersschedule.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Maker's Schedule, Manager's Schedule"
+    },
+    "https://paulgraham.com/marginal.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Power of the Marginal"
+    },
+    "https://paulgraham.com/maybe.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Can You Buy a Silicon Valley? Maybe."
+    },
+    "https://paulgraham.com/mean.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Mean People Fail"
+    },
+    "https://paulgraham.com/microsoft.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Microsoft is Dead"
+    },
+    "https://paulgraham.com/mit.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Student's Guide to Startups"
+    },
+    "https://paulgraham.com/mod.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Two Kinds of Moderate"
+    },
+    "https://paulgraham.com/name.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Change Your Name"
+    },
+    "https://paulgraham.com/nerds.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why Nerds are Unpopular"
+    },
+    "https://paulgraham.com/newideas.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Crazy New Ideas"
+    },
+    "https://paulgraham.com/newthings.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Six Principles for Making New Things"
+    },
+    "https://paulgraham.com/nft.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "An NFT That Saves Lives"
+    },
+    "https://paulgraham.com/noob.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Being a Noob"
+    },
+    "https://paulgraham.com/noop.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why Arc Isn't Especially Object-Oriented"
+    },
+    "https://paulgraham.com/notnot.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why to Not Not Start a Startup"
+    },
+    "https://paulgraham.com/nov.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Novelty and Heresy"
+    },
+    "https://paulgraham.com/nthings.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The List of N Things"
+    },
+    "https://paulgraham.com/opensource.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Business Can Learn from Open Source"
+    },
+    "https://paulgraham.com/organic.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Organic Startup Ideas"
+    },
+    "https://paulgraham.com/orth.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Orthodox Privilege"
+    },
+    "https://paulgraham.com/own.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Project of One's Own"
+    },
+    "https://paulgraham.com/patentpledge.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Patent Pledge"
+    },
+    "https://paulgraham.com/persistence.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Right Kind of Stubborn"
+    },
+    "https://paulgraham.com/pgh.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Make Pittsburgh a Startup Hub"
+    },
+    "https://paulgraham.com/philosophy.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Do Philosophy"
+    },
+    "https://paulgraham.com/pinch.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Fatal Pinch"
+    },
+    "https://paulgraham.com/polls.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Bradley's Ghost"
+    },
+    "https://paulgraham.com/popular.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Being Popular"
+    },
+    "https://paulgraham.com/pow.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Charisma / Power"
+    },
+    "https://paulgraham.com/power.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Succinctness is Power"
+    },
+    "https://paulgraham.com/prcmc.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Pooled-Risk Company Management Company"
+    },
+    "https://paulgraham.com/prepare.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How Universities Should Prepare Founders"
+    },
+    "https://paulgraham.com/procrastination.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Good and Bad Procrastination"
+    },
+    "https://paulgraham.com/progbot.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Programming Bottom-Up"
+    },
+    "https://paulgraham.com/prop62.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "This Year We Can End the Death Penalty in California"
+    },
+    "https://paulgraham.com/property.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Defining Property"
+    },
+    "https://paulgraham.com/publishing.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Post-Medium Publishing"
+    },
+    "https://paulgraham.com/pypar.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Python Paradox"
+    },
+    "https://paulgraham.com/ramenprofitable.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Ramen Profitable"
+    },
+    "https://paulgraham.com/randomness.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "See Randomness"
+    },
+    "https://paulgraham.com/re.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Refragmentation"
+    },
+    "https://paulgraham.com/read.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Need to Read"
+    },
+    "https://paulgraham.com/real.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Real Reason to End the Death Penalty"
+    },
+    "https://paulgraham.com/really.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Startups Are Really Like"
+    },
+    "https://paulgraham.com/reddits.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Reddits"
+    },
+    "https://paulgraham.com/relres.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Relentlessly Resourceful"
+    },
+    "https://paulgraham.com/revolution.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Local Revolution?"
+    },
+    "https://paulgraham.com/richnow.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How People Get Rich Now"
+    },
+    "https://paulgraham.com/road.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Other Road Ahead"
+    },
+    "https://paulgraham.com/ronco.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Ronco Principle"
+    },
+    "https://paulgraham.com/rootsoflisp.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Roots of Lisp"
+    },
+    "https://paulgraham.com/safe.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why It's Safe for Founders to Be Nice"
+    },
+    "https://paulgraham.com/say.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What You Can't Say"
+    },
+    "https://paulgraham.com/schlep.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Schlep Blindness"
+    },
+    "https://paulgraham.com/seesv.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Where to See Silicon Valley"
+    },
+    "https://paulgraham.com/segway.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Trouble with the Segway"
+    },
+    "https://paulgraham.com/selfindulgence.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Lose Time and Money"
+    },
+    "https://paulgraham.com/sfp.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What I Did this Summer"
+    },
+    "https://paulgraham.com/siliconvalley.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Be Silicon Valley"
+    },
+    "https://paulgraham.com/simply.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Write Simply"
+    },
+    "https://paulgraham.com/smart.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Beyond Smart"
+    },
+    "https://paulgraham.com/softwarepatents.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Are Software Patents Evil?"
+    },
+    "https://paulgraham.com/spam.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Plan for Spam"
+    },
+    "https://paulgraham.com/speak.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Writing and Speaking"
+    },
+    "https://paulgraham.com/start.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Start a Startup"
+    },
+    "https://paulgraham.com/startupfunding.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Fund a Startup"
+    },
+    "https://paulgraham.com/startuphubs.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why to Move to a Startup Hub"
+    },
+    "https://paulgraham.com/startupideas.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Get Startup Ideas"
+    },
+    "https://paulgraham.com/startuplessons.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Hardest Lessons for Startups to Learn"
+    },
+    "https://paulgraham.com/startupmistakes.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The 18 Mistakes That Kill Startups"
+    },
+    "https://paulgraham.com/stuff.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Stuff"
+    },
+    "https://paulgraham.com/submarine.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Submarine"
+    },
+    "https://paulgraham.com/sun.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "General and Surprising"
+    },
+    "https://paulgraham.com/superangels.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The New Funding Landscape"
+    },
+    "https://paulgraham.com/superlinear.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Superlinear Returns"
+    },
+    "https://paulgraham.com/swan.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Black Swan Farming"
+    },
+    "https://paulgraham.com/tablets.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Tablets"
+    },
+    "https://paulgraham.com/talk.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Write Like You Talk"
+    },
+    "https://paulgraham.com/taste.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Taste for Makers"
+    },
+    "https://paulgraham.com/think.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Think for Yourself"
+    },
+    "https://paulgraham.com/todo.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Top of My Todo List"
+    },
+    "https://paulgraham.com/top.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Top Idea in Your Mind"
+    },
+    "https://paulgraham.com/trolls.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Trolls"
+    },
+    "https://paulgraham.com/twitter.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why Twitter is a Big Deal"
+    },
+    "https://paulgraham.com/unions.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "An Alternative Theory of Unions"
+    },
+    "https://paulgraham.com/usa.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Made in USA"
+    },
+    "https://paulgraham.com/useful.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Write Usefully"
+    },
+    "https://paulgraham.com/users.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What I've Learned from Users"
+    },
+    "https://paulgraham.com/vb.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Life is Short"
+    },
+    "https://paulgraham.com/vcsqueeze.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Venture Capital Squeeze"
+    },
+    "https://paulgraham.com/venturecapital.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Unified Theory of VC Suckage"
+    },
+    "https://paulgraham.com/vw.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Snapshot: Viaweb, June 1998"
+    },
+    "https://paulgraham.com/want.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What You (Want to)* Want"
+    },
+    "https://paulgraham.com/wealth.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Make Wealth"
+    },
+    "https://paulgraham.com/web20.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Web 2.0"
+    },
+    "https://paulgraham.com/webstartups.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Future of Web Startups"
+    },
+    "https://paulgraham.com/weird.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Weird Languages"
+    },
+    "https://paulgraham.com/when.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "When To Do What You Love"
+    },
+    "https://paulgraham.com/whyyc.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Why YC"
+    },
+    "https://paulgraham.com/winc.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How to Convert Between Wealth and Income Tax"
+    },
+    "https://paulgraham.com/wisdom.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Is It Worth Being Wise?"
+    },
+    "https://paulgraham.com/woke.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "The Origins of Wokeness"
+    },
+    "https://paulgraham.com/word.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A Word to the Resourceful"
+    },
+    "https://paulgraham.com/words.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Putting Ideas into Words"
+    },
+    "https://paulgraham.com/work.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Doesn't Seem Like Work?"
+    },
+    "https://paulgraham.com/worked.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What I Worked On"
+    },
+    "https://paulgraham.com/writes.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Writes and Write-Nots"
+    },
+    "https://paulgraham.com/writing44.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Writing, Briefly"
+    },
+    "https://paulgraham.com/wtax.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "Modeling a Wealth Tax"
+    },
+    "https://paulgraham.com/yahoo.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "What Happened to Yahoo"
+    },
+    "https://paulgraham.com/ycombinator.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "A New Venture Animal"
+    },
+    "https://paulgraham.com/ycstart.html": {
+      "first_seen": "2026-09-04T08:57:54Z",
+      "title": "How Y Combinator Started"
+    }
+  },
+  "source": "https://paulgraham.com/articles.html",
+  "version": 1
+}
