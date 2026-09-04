@@ -1,0 +1,67 @@
+name: Update Paul Graham RSS
+
+on:
+  schedule:
+    # 01:00 China Standard Time. GitHub may start scheduled jobs a few minutes late.
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: paul-graham-rss
+  cancel-in-progress: false
+
+jobs:
+  update-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Scrape essays and build feed
+        env:
+          # Create a repository variable named RSS_FEED_URL after enabling Pages.
+          # Leave it unset if you do not need an Atom self link.
+          RSS_FEED_URL: ${{ vars.RSS_FEED_URL }}
+        run: >-
+          python scrape_feed.py
+          --output public/feed.xml
+          --state feed-state.json
+          --feed-url "$RSS_FEED_URL"
+
+      - name: Save feed state for the next run
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed-state.json public/feed.xml
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "Update Paul Graham RSS feed"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
